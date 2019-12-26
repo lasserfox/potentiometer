@@ -26,6 +26,20 @@ Para más detalles de como construir el hardware, conexiones y cómo funciona ca
 * [Wiki_Hardware](https://github.com/lasserfox/potentiometer/wiki/hardware) - The hardware and connections.
 
 ### Fase 2 - Software
+Proyect structure:
+
+```
++--backend
+    +-- core (all backend code to manage esp32 modules)
+    +-- test
++--frontend
+    +-- mobile-app (app development)
+    +-- web (web app - future)
+    +-- test
++-- doc (documentation for all)
+
+```
+
 
 **TODO**
 
