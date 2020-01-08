@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PowerMeter</string>
+    <string name="action_settings">Settings</string>
+    <string name="power">Power</string>
+    <string name="textview">TextView</string>
+    <string name="_5_minutes_mean">5 minutes mean</string>
+    <string name="last_minute_mean">Last minute mean</string>
+    <string name="session_power">Session power</string>
+    <string name="counter">Counter</string>
+    <string name="clicks">clicks</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="dispositivo_vinculado">Dispositivo Vinculado</string>
+</resources>
